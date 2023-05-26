@@ -1,0 +1,57 @@
+body{
+    background: #;
+    font-size: 12px;
+    font-family: Tahoma;
+    margin: 0;
+    padding: 5em 6em ;
+}
+
+body main{
+    padding: 1em 5em;
+
+}
+
+.row{
+    background: rgb(180, 179, 179);
+    border: 1em solid white;
+    margin-bottom: 2em;
+    position: relative;
+}
+.col{
+    border: 1em solid red;
+}
+.row .col {
+    background: white;
+    border: 1px solid whitesmoke;
+    display: inline-block;
+    margin: 0;
+    width: 49%;
+
+
+}
+h1{
+    font-size: 4em;
+    text-align: center;
+    background: yellow;
+}
+h2{
+    font-size: 3em;
+    text-align: center;
+}
+h3{
+    font-size: 2em;
+    text-align: center;
+}
+.first-col{
+    height: 30em;
+    background: rgb(194, 184, 184);
+    position: absolute;
+    
+}
+.row .col p{
+    color: rgb(201, 9, 121);
+}
+
+.row .col img{
+    background: rgb(194, 184, 184);
+}

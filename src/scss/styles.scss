@@ -1,0 +1,30 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+$white: #ffffff;
+
+$theme-colors: (
+"light": #cbcbcf,
+"dark": #000100,
+"primary": #323955,
+"secondary": #ffffff, /*White*/
+"info": #f7fb09,
+"success": #00a25c,
+"warning": #e2ca00,
+"danger": #f11800,
+"gray": #7e817e,
+"casiwhite": #f3f1f1,
+"sea2": #8fbc8f, "sea":#7fbc8f, "azure":#f0ffff,
+"blackpink": #d3b9b1,
+"blackgray": #727683,
+"orange": #c79978,
+"amarillo": #f3dfa6,
+"naranjaamarillo": #dbbc73,
+"azul": #1ca1e2,
+
+);
+
+
+@import "bootstrap/scss/bootstrap";
+
+/*sideways-lr*/
